@@ -1,6 +1,6 @@
 # Spam-Detection-Using-Naive-Bayes
 
-#  Spam Detection API
+
 
 This project is a **machine learning-based API** that predicts whether a given message is **Spam** or **Ham (Not Spam)** using a trained Naive Bayes classifier.
 
